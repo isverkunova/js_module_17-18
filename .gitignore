@@ -1,0 +1,4 @@
+/grunt/dist
+/grunt/node_modules
+.idea/
+.DS_Store
